@@ -1,9 +1,0 @@
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\bin\Debug\simple-physical-system.exe.config
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\bin\Debug\simple-physical-system.exe
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\bin\Debug\simple-physical-system.pdb
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\obj\Debug\simple-physical-system.csprojResolveAssemblyReference.cache
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\obj\Debug\simple_physical_system.Form1.resources
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\obj\Debug\simple_physical_system.Properties.Resources.resources
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\obj\Debug\simple-physical-system.csproj.GenerateResource.Cache
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\obj\Debug\simple-physical-system.exe
-c:\users\普\documents\visual studio 2013\Projects\simple-physical-system\simple-physical-system\obj\Debug\simple-physical-system.pdb
